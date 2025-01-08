@@ -6,7 +6,6 @@
 Birthday Paradox, by Al Sweigart al@inventwithpython.com
 --сокращено--
 How many birthdays shall I generate? (Max 100)
-> 23
 # Описание работы
 Here are 23 birthdays:
 Oct 9, Sep 1, May 28, Jul 29, Feb 17, Jan 8, Aug 18, Feb 19, Dec 1, Jan 22,
